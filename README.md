@@ -87,4 +87,4 @@ This project demonstrates how **Natural Language Processing (NLP)** and **data v
 **Thank you for visiting!** 😊  
 For questions or suggestions, feel free to open an issue or reach out.  
 
-🔗 **GitHub Repository:** [Click Here](https://lnkd.in/dvKjyA_C)  
+🔗 **GitHub Repository:**
